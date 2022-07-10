@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VezdecodMobileFinal</string>
+    <string name="alarm_name">ALARMAAA!!!!</string>
+    <string name="seconds_hint">Секунды</string>
+    <string name="stop_text">Стоп</string>
+    <string name="set">Завести</string>
+    <string name="reset">Сбросить</string>
+</resources>
